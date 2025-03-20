@@ -1,0 +1,867 @@
+
+
+12/03/2025 01:07:34 UTC+0000
+Content Image: /content/drive/MyDrive/Style_Transfer_Collection/HayleyWilliams.jpg
+Style Image: /content/drive/MyDrive/Style_Transfer_Collection/StarryNight.jpg
+device: cuda, content_weight: 1, style_weight: 100.0, learning_rate_Adam: 0.06, learning_rate_LBFGS: 0.2, Adam_epoch: 50, LBFGS_epoch: 300, storage_limit: 300
+
+Content and Style images are retrieved.
+VGG 19 pre-trained model is created.
+Adam training begins...
+Adam epoch: 10		 loss: 0.00023437		 time passed: 0:00:00.429923
+Adam epoch: 20		 loss: 4.868e-05		 time passed: 0:00:00.733906
+Adam epoch: 30		 loss: 3.627e-05		 time passed: 0:00:01.035751
+Adam epoch: 40		 loss: 2.302e-05		 time passed: 0:00:01.339591
+Adam epoch: 50		 loss: 1.94e-05		 time passed: 0:00:01.641825
+LBFGS training begins...
+LBFGS epoch: 10		 loss: 1.92e-06		 time passed: 0:00:07.355529
+LBFGS epoch: 20		 loss: 1.05e-06		 time passed: 0:00:13.515958
+LBFGS epoch: 30		 loss: 9.5e-07		 time passed: 0:00:19.655917
+LBFGS epoch: 40		 loss: 9.1e-07		 time passed: 0:00:25.790082
+LBFGS epoch: 50		 loss: 8.9e-07		 time passed: 0:00:31.933663
+LBFGS epoch: 60		 loss: 8.8e-07		 time passed: 0:00:38.190127
+LBFGS epoch: 70		 loss: 8.7e-07		 time passed: 0:00:44.330070
+LBFGS epoch: 80		 loss: 8.7e-07		 time passed: 0:00:50.453218
+LBFGS epoch: 90		 loss: 8.7e-07		 time passed: 0:00:56.577532
+LBFGS epoch: 100		 loss: 8.6e-07		 time passed: 0:01:02.726514
+LBFGS epoch: 110		 loss: 8.6e-07		 time passed: 0:01:08.981934
+LBFGS epoch: 120		 loss: 8.6e-07		 time passed: 0:01:15.123056
+LBFGS epoch: 130		 loss: 8.6e-07		 time passed: 0:01:21.244212
+LBFGS epoch: 140		 loss: 8.5e-07		 time passed: 0:01:27.365360
+LBFGS epoch: 150		 loss: 8.5e-07		 time passed: 0:01:33.501116
+LBFGS epoch: 160		 loss: 8.5e-07		 time passed: 0:01:39.746291
+LBFGS epoch: 170		 loss: 8.5e-07		 time passed: 0:01:45.873789
+LBFGS epoch: 180		 loss: 8.5e-07		 time passed: 0:01:52.008768
+LBFGS epoch: 190		 loss: 8.5e-07		 time passed: 0:01:58.150245
+LBFGS epoch: 200		 loss: 8.5e-07		 time passed: 0:02:04.294370
+LBFGS epoch: 210		 loss: 8.5e-07		 time passed: 0:02:10.534953
+LBFGS epoch: 220		 loss: 8.5e-07		 time passed: 0:02:16.689235
+LBFGS epoch: 230		 loss: 8.5e-07		 time passed: 0:02:22.818981
+LBFGS epoch: 240		 loss: 8.5e-07		 time passed: 0:02:28.685360
+LBFGS epoch: 250		 loss: 8.4e-07		 time passed: 0:02:34.816480
+LBFGS epoch: 260		 loss: 8.4e-07		 time passed: 0:02:40.968357
+LBFGS epoch: 270		 loss: 8.4e-07		 time passed: 0:02:46.980421
+LBFGS epoch: 280		 loss: 8.4e-07		 time passed: 0:02:52.586291
+LBFGS epoch: 290		 loss: 8.4e-07		 time passed: 0:02:58.576923
+LBFGS epoch: 300		 loss: 8.4e-07		 time passed: 0:03:03.366889
+Training completed.
+Video created.
+
+
+12/03/2025 01:10:44 UTC+0000
+Content Image: /content/drive/MyDrive/Style_Transfer_Collection/HayleyWilliams.jpg
+Style Image: /content/drive/MyDrive/Style_Transfer_Collection/StarryNight.jpg
+device: cuda, content_weight: 1, style_weight: 0.01, learning_rate_Adam: 0.003, learning_rate_LBFGS: 0.2, Adam_epoch: 0, LBFGS_epoch: 300, storage_limit: 300
+
+Content and Style images are retrieved.
+VGG 19 pre-trained model is created.
+Adam training begins...
+LBFGS training begins...
+LBFGS epoch: 10		 loss: 6e-08		 time passed: 0:00:05.540878
+LBFGS epoch: 20		 loss: 4e-08		 time passed: 0:00:11.662143
+LBFGS epoch: 30		 loss: 2e-08		 time passed: 0:00:17.778202
+LBFGS epoch: 40		 loss: 2e-08		 time passed: 0:00:23.904948
+LBFGS epoch: 50		 loss: 1e-08		 time passed: 0:00:30.050480
+LBFGS epoch: 60		 loss: 1e-08		 time passed: 0:00:36.314047
+LBFGS epoch: 70		 loss: 1e-08		 time passed: 0:00:42.439274
+LBFGS epoch: 80		 loss: 1e-08		 time passed: 0:00:48.573000
+LBFGS epoch: 90		 loss: 1e-08		 time passed: 0:00:54.687824
+LBFGS epoch: 100		 loss: 1e-08		 time passed: 0:01:00.802383
+LBFGS epoch: 110		 loss: 1e-08		 time passed: 0:01:07.049241
+LBFGS epoch: 120		 loss: 1e-08		 time passed: 0:01:13.155414
+LBFGS epoch: 130		 loss: 1e-08		 time passed: 0:01:19.300442
+LBFGS epoch: 140		 loss: 1e-08		 time passed: 0:01:25.424941
+LBFGS epoch: 150		 loss: 1e-08		 time passed: 0:01:31.546849
+LBFGS epoch: 160		 loss: 1e-08		 time passed: 0:01:37.807393
+LBFGS epoch: 170		 loss: 1e-08		 time passed: 0:01:43.970520
+LBFGS epoch: 180		 loss: 1e-08		 time passed: 0:01:50.106791
+LBFGS epoch: 190		 loss: 1e-08		 time passed: 0:01:56.284866
+LBFGS epoch: 200		 loss: 1e-08		 time passed: 0:02:02.415262
+LBFGS epoch: 210		 loss: 1e-08		 time passed: 0:02:08.707191
+LBFGS epoch: 220		 loss: 1e-08		 time passed: 0:02:14.848695
+LBFGS epoch: 230		 loss: 1e-08		 time passed: 0:02:21.064328
+LBFGS epoch: 240		 loss: 1e-08		 time passed: 0:02:27.213892
+LBFGS epoch: 250		 loss: 1e-08		 time passed: 0:02:33.391666
+LBFGS epoch: 260		 loss: 1e-08		 time passed: 0:02:39.728939
+LBFGS epoch: 270		 loss: 1e-08		 time passed: 0:02:45.919218
+LBFGS epoch: 280		 loss: 1e-08		 time passed: 0:02:52.050917
+LBFGS epoch: 290		 loss: 1e-08		 time passed: 0:02:58.180772
+LBFGS epoch: 300		 loss: 1e-08		 time passed: 0:03:04.335082
+Training completed.
+Video created.
+
+
+12/03/2025 01:13:54 UTC+0000
+Content Image: /content/drive/MyDrive/Style_Transfer_Collection/HayleyWilliams.jpg
+Style Image: /content/drive/MyDrive/Style_Transfer_Collection/StarryNight.jpg
+device: cuda, content_weight: 1, style_weight: 0.1, learning_rate_Adam: 0.003, learning_rate_LBFGS: 0.2, Adam_epoch: 0, LBFGS_epoch: 300, storage_limit: 300
+
+Content and Style images are retrieved.
+VGG 19 pre-trained model is created.
+Adam training begins...
+LBFGS training begins...
+LBFGS epoch: 10		 loss: 1.6e-07		 time passed: 0:00:05.560185
+LBFGS epoch: 20		 loss: 6e-08		 time passed: 0:00:11.688125
+LBFGS epoch: 30		 loss: 5e-08		 time passed: 0:00:17.898770
+LBFGS epoch: 40		 loss: 4e-08		 time passed: 0:00:24.036398
+LBFGS epoch: 50		 loss: 4e-08		 time passed: 0:00:30.183861
+LBFGS epoch: 60		 loss: 3e-08		 time passed: 0:00:36.450233
+LBFGS epoch: 70		 loss: 3e-08		 time passed: 0:00:42.595953
+LBFGS epoch: 80		 loss: 3e-08		 time passed: 0:00:48.721134
+LBFGS epoch: 90		 loss: 3e-08		 time passed: 0:00:54.863103
+LBFGS epoch: 100		 loss: 3e-08		 time passed: 0:01:00.999766
+LBFGS epoch: 110		 loss: 3e-08		 time passed: 0:01:07.267035
+LBFGS epoch: 120		 loss: 3e-08		 time passed: 0:01:13.425220
+LBFGS epoch: 130		 loss: 3e-08		 time passed: 0:01:19.588332
+LBFGS epoch: 140		 loss: 3e-08		 time passed: 0:01:25.723507
+LBFGS epoch: 150		 loss: 3e-08		 time passed: 0:01:31.873625
+LBFGS epoch: 160		 loss: 3e-08		 time passed: 0:01:38.179372
+LBFGS epoch: 170		 loss: 2e-08		 time passed: 0:01:44.335285
+LBFGS epoch: 180		 loss: 2e-08		 time passed: 0:01:50.475201
+LBFGS epoch: 190		 loss: 2e-08		 time passed: 0:01:56.623309
+LBFGS epoch: 200		 loss: 2e-08		 time passed: 0:02:02.766077
+LBFGS epoch: 210		 loss: 2e-08		 time passed: 0:02:09.025425
+LBFGS epoch: 220		 loss: 2e-08		 time passed: 0:02:15.153304
+LBFGS epoch: 230		 loss: 2e-08		 time passed: 0:02:21.293762
+LBFGS epoch: 240		 loss: 2e-08		 time passed: 0:02:27.430130
+LBFGS epoch: 250		 loss: 2e-08		 time passed: 0:02:33.569934
+LBFGS epoch: 260		 loss: 2e-08		 time passed: 0:02:39.824194
+LBFGS epoch: 270		 loss: 2e-08		 time passed: 0:02:45.964381
+LBFGS epoch: 280		 loss: 2e-08		 time passed: 0:02:52.090620
+LBFGS epoch: 290		 loss: 2e-08		 time passed: 0:02:58.238008
+LBFGS epoch: 300		 loss: 2e-08		 time passed: 0:03:04.372925
+Training completed.
+Video created.
+
+
+12/03/2025 01:17:05 UTC+0000
+Content Image: /content/drive/MyDrive/Style_Transfer_Collection/HayleyWilliams.jpg
+Style Image: /content/drive/MyDrive/Style_Transfer_Collection/StarryNight.jpg
+device: cuda, content_weight: 1, style_weight: 10.0, learning_rate_Adam: 0.003, learning_rate_LBFGS: 0.2, Adam_epoch: 0, LBFGS_epoch: 300, storage_limit: 300
+
+Content and Style images are retrieved.
+VGG 19 pre-trained model is created.
+Adam training begins...
+LBFGS training begins...
+LBFGS epoch: 10		 loss: 7.2e-07		 time passed: 0:00:05.518616
+LBFGS epoch: 20		 loss: 4.3e-07		 time passed: 0:00:11.642534
+LBFGS epoch: 30		 loss: 4e-07		 time passed: 0:00:17.760272
+LBFGS epoch: 40		 loss: 3.9e-07		 time passed: 0:00:23.886323
+LBFGS epoch: 50		 loss: 3.8e-07		 time passed: 0:00:30.015053
+LBFGS epoch: 60		 loss: 3.8e-07		 time passed: 0:00:36.260489
+LBFGS epoch: 70		 loss: 3.7e-07		 time passed: 0:00:42.392684
+LBFGS epoch: 80		 loss: 3.7e-07		 time passed: 0:00:48.535665
+LBFGS epoch: 90		 loss: 3.7e-07		 time passed: 0:00:54.650078
+LBFGS epoch: 100		 loss: 3.7e-07		 time passed: 0:01:00.774030
+LBFGS epoch: 110		 loss: 3.7e-07		 time passed: 0:01:07.052309
+LBFGS epoch: 120		 loss: 3.7e-07		 time passed: 0:01:13.191020
+LBFGS epoch: 130		 loss: 3.6e-07		 time passed: 0:01:19.313946
+LBFGS epoch: 140		 loss: 3.6e-07		 time passed: 0:01:25.474324
+LBFGS epoch: 150		 loss: 3.6e-07		 time passed: 0:01:31.617936
+LBFGS epoch: 160		 loss: 3.6e-07		 time passed: 0:01:37.880598
+LBFGS epoch: 170		 loss: 3.6e-07		 time passed: 0:01:44.012001
+LBFGS epoch: 180		 loss: 3.6e-07		 time passed: 0:01:50.164111
+LBFGS epoch: 190		 loss: 3.6e-07		 time passed: 0:01:56.296151
+LBFGS epoch: 200		 loss: 3.6e-07		 time passed: 0:02:02.430732
+LBFGS epoch: 210		 loss: 3.6e-07		 time passed: 0:02:08.732074
+LBFGS epoch: 220		 loss: 3.6e-07		 time passed: 0:02:14.899336
+LBFGS epoch: 230		 loss: 3.6e-07		 time passed: 0:02:21.042430
+LBFGS epoch: 240		 loss: 3.6e-07		 time passed: 0:02:26.453236
+LBFGS epoch: 250		 loss: 3.6e-07		 time passed: 0:02:32.607767
+LBFGS epoch: 260		 loss: 3.6e-07		 time passed: 0:02:38.890656
+LBFGS epoch: 270		 loss: 3.6e-07		 time passed: 0:02:44.493519
+LBFGS epoch: 280		 loss: 3.6e-07		 time passed: 0:02:50.614093
+LBFGS epoch: 290		 loss: 3.6e-07		 time passed: 0:02:56.756705
+LBFGS epoch: 300		 loss: 3.6e-07		 time passed: 0:03:02.644281
+Training completed.
+Video created.
+
+
+12/03/2025 01:20:14 UTC+0000
+Content Image: /content/drive/MyDrive/Style_Transfer_Collection/HayleyWilliams.jpg
+Style Image: /content/drive/MyDrive/Style_Transfer_Collection/StarryNight.jpg
+device: cuda, content_weight: 1, style_weight: 100.0, learning_rate_Adam: 0.003, learning_rate_LBFGS: 0.2, Adam_epoch: 0, LBFGS_epoch: 300, storage_limit: 300
+
+Content and Style images are retrieved.
+VGG 19 pre-trained model is created.
+Adam training begins...
+LBFGS training begins...
+LBFGS epoch: 10		 loss: 2.91e-06		 time passed: 0:00:05.543184
+LBFGS epoch: 20		 loss: 1.1e-06		 time passed: 0:00:11.669390
+LBFGS epoch: 30		 loss: 9.6e-07		 time passed: 0:00:17.819759
+LBFGS epoch: 40		 loss: 9.2e-07		 time passed: 0:00:23.967996
+LBFGS epoch: 50		 loss: 9e-07		 time passed: 0:00:30.110343
+LBFGS epoch: 60		 loss: 8.8e-07		 time passed: 0:00:36.375655
+LBFGS epoch: 70		 loss: 8.8e-07		 time passed: 0:00:42.499902
+LBFGS epoch: 80		 loss: 8.7e-07		 time passed: 0:00:48.645423
+LBFGS epoch: 90		 loss: 8.7e-07		 time passed: 0:00:54.783776
+LBFGS epoch: 100		 loss: 8.6e-07		 time passed: 0:01:00.933930
+LBFGS epoch: 110		 loss: 8.6e-07		 time passed: 0:01:07.221036
+LBFGS epoch: 120		 loss: 8.6e-07		 time passed: 0:01:13.358490
+LBFGS epoch: 130		 loss: 8.6e-07		 time passed: 0:01:19.493259
+LBFGS epoch: 140		 loss: 8.6e-07		 time passed: 0:01:25.625941
+LBFGS epoch: 150		 loss: 8.6e-07		 time passed: 0:01:31.747140
+LBFGS epoch: 160		 loss: 8.5e-07		 time passed: 0:01:37.986465
+LBFGS epoch: 170		 loss: 8.5e-07		 time passed: 0:01:44.112296
+LBFGS epoch: 180		 loss: 8.5e-07		 time passed: 0:01:50.250408
+LBFGS epoch: 190		 loss: 8.5e-07		 time passed: 0:01:56.386381
+LBFGS epoch: 200		 loss: 8.5e-07		 time passed: 0:02:02.242988
+LBFGS epoch: 210		 loss: 8.5e-07		 time passed: 0:02:08.240173
+LBFGS epoch: 220		 loss: 8.5e-07		 time passed: 0:02:13.889497
+LBFGS epoch: 230		 loss: 8.5e-07		 time passed: 0:02:19.820040
+LBFGS epoch: 240		 loss: 8.5e-07		 time passed: 0:02:25.914463
+LBFGS epoch: 250		 loss: 8.5e-07		 time passed: 0:02:31.591120
+LBFGS epoch: 260		 loss: 8.5e-07		 time passed: 0:02:37.881502
+LBFGS epoch: 270		 loss: 8.5e-07		 time passed: 0:02:43.411734
+LBFGS epoch: 280		 loss: 8.5e-07		 time passed: 0:02:48.750518
+LBFGS epoch: 290		 loss: 8.5e-07		 time passed: 0:02:54.631953
+LBFGS epoch: 300		 loss: 8.5e-07		 time passed: 0:03:00.239158
+Training completed.
+Video created.
+
+
+12/03/2025 01:23:20 UTC+0000
+Content Image: /content/drive/MyDrive/Style_Transfer_Collection/HayleyWilliams.jpg
+Style Image: /content/drive/MyDrive/Style_Transfer_Collection/StarryNight.jpg
+device: cuda, content_weight: 1, style_weight: 10000.0, learning_rate_Adam: 0.003, learning_rate_LBFGS: 0.2, Adam_epoch: 0, LBFGS_epoch: 300, storage_limit: 300
+
+Content and Style images are retrieved.
+VGG 19 pre-trained model is created.
+Adam training begins...
+LBFGS training begins...
+LBFGS epoch: 10		 loss: 0.00015573		 time passed: 0:00:05.547693
+LBFGS epoch: 20		 loss: 9.21e-06		 time passed: 0:00:11.688899
+LBFGS epoch: 30		 loss: 5.02e-06		 time passed: 0:00:17.806672
+LBFGS epoch: 40		 loss: 4.12e-06		 time passed: 0:00:23.951020
+LBFGS epoch: 50		 loss: 3.74e-06		 time passed: 0:00:30.088100
+LBFGS epoch: 60		 loss: 3.54e-06		 time passed: 0:00:36.346405
+LBFGS epoch: 70		 loss: 3.41e-06		 time passed: 0:00:42.476580
+LBFGS epoch: 80		 loss: 3.32e-06		 time passed: 0:00:48.631745
+LBFGS epoch: 90		 loss: 3.25e-06		 time passed: 0:00:54.816916
+LBFGS epoch: 100		 loss: 3.19e-06		 time passed: 0:01:00.955147
+LBFGS epoch: 110		 loss: 3.15e-06		 time passed: 0:01:07.264190
+LBFGS epoch: 120		 loss: 3.11e-06		 time passed: 0:01:13.437633
+LBFGS epoch: 130		 loss: 3.08e-06		 time passed: 0:01:19.664489
+LBFGS epoch: 140		 loss: 3.05e-06		 time passed: 0:01:25.811924
+LBFGS epoch: 150		 loss: 3.03e-06		 time passed: 0:01:31.950571
+LBFGS epoch: 160		 loss: 3.01e-06		 time passed: 0:01:38.232902
+LBFGS epoch: 170		 loss: 2.99e-06		 time passed: 0:01:44.379931
+LBFGS epoch: 180		 loss: 2.98e-06		 time passed: 0:01:50.531373
+LBFGS epoch: 190		 loss: 2.96e-06		 time passed: 0:01:56.680971
+LBFGS epoch: 200		 loss: 2.95e-06		 time passed: 0:02:02.802619
+LBFGS epoch: 210		 loss: 2.94e-06		 time passed: 0:02:09.062550
+LBFGS epoch: 220		 loss: 2.93e-06		 time passed: 0:02:15.196817
+LBFGS epoch: 230		 loss: 2.92e-06		 time passed: 0:02:21.347903
+LBFGS epoch: 240		 loss: 2.91e-06		 time passed: 0:02:27.511033
+LBFGS epoch: 250		 loss: 2.9e-06		 time passed: 0:02:33.658938
+LBFGS epoch: 260		 loss: 2.89e-06		 time passed: 0:02:39.922807
+LBFGS epoch: 270		 loss: 2.88e-06		 time passed: 0:02:46.071733
+LBFGS epoch: 280		 loss: 2.88e-06		 time passed: 0:02:52.192704
+LBFGS epoch: 290		 loss: 2.87e-06		 time passed: 0:02:58.310024
+LBFGS epoch: 300		 loss: 2.86e-06		 time passed: 0:03:04.354534
+Training completed.
+Video created.
+
+
+12/03/2025 01:26:31 UTC+0000
+Content Image: /content/drive/MyDrive/Style_Transfer_Collection/HayleyWilliams.jpg
+Style Image: /content/drive/MyDrive/Style_Transfer_Collection/StarryNight.jpg
+device: cuda, content_weight: 1, style_weight: 1000000.0, learning_rate_Adam: 0.003, learning_rate_LBFGS: 0.2, Adam_epoch: 0, LBFGS_epoch: 300, storage_limit: 300
+
+Content and Style images are retrieved.
+VGG 19 pre-trained model is created.
+Adam training begins...
+LBFGS training begins...
+LBFGS epoch: 10		 loss: 0.01463115		 time passed: 0:00:05.448974
+LBFGS epoch: 20		 loss: 0.00058578		 time passed: 0:00:11.540650
+LBFGS epoch: 30		 loss: 0.00019476		 time passed: 0:00:17.608903
+LBFGS epoch: 40		 loss: 0.00011598		 time passed: 0:00:23.693360
+LBFGS epoch: 50		 loss: 8.755e-05		 time passed: 0:00:29.761327
+LBFGS epoch: 60		 loss: 7.378e-05		 time passed: 0:00:35.963408
+LBFGS epoch: 70		 loss: 6.548e-05		 time passed: 0:00:42.030159
+LBFGS epoch: 80		 loss: 6.019e-05		 time passed: 0:00:48.122950
+LBFGS epoch: 90		 loss: 5.624e-05		 time passed: 0:00:54.262584
+LBFGS epoch: 100		 loss: 5.326e-05		 time passed: 0:01:00.431925
+LBFGS epoch: 110		 loss: 5.09e-05		 time passed: 0:01:06.711848
+LBFGS epoch: 120		 loss: 4.9e-05		 time passed: 0:01:12.864619
+LBFGS epoch: 130		 loss: 4.74e-05		 time passed: 0:01:19.024958
+LBFGS epoch: 140		 loss: 4.607e-05		 time passed: 0:01:25.181579
+LBFGS epoch: 150		 loss: 4.492e-05		 time passed: 0:01:31.324480
+LBFGS epoch: 160		 loss: 4.392e-05		 time passed: 0:01:37.582173
+LBFGS epoch: 170		 loss: 4.301e-05		 time passed: 0:01:43.721955
+LBFGS epoch: 180		 loss: 4.224e-05		 time passed: 0:01:49.863695
+LBFGS epoch: 190		 loss: 4.154e-05		 time passed: 0:01:56.007858
+LBFGS epoch: 200		 loss: 4.09e-05		 time passed: 0:02:02.176664
+LBFGS epoch: 210		 loss: 4.033e-05		 time passed: 0:02:08.467104
+LBFGS epoch: 220		 loss: 3.982e-05		 time passed: 0:02:14.642081
+LBFGS epoch: 230		 loss: 3.934e-05		 time passed: 0:02:20.831829
+LBFGS epoch: 240		 loss: 3.889e-05		 time passed: 0:02:27.012002
+LBFGS epoch: 250		 loss: 3.848e-05		 time passed: 0:02:33.161013
+LBFGS epoch: 260		 loss: 3.81e-05		 time passed: 0:02:39.443282
+LBFGS epoch: 270		 loss: 3.775e-05		 time passed: 0:02:45.568662
+LBFGS epoch: 280		 loss: 3.741e-05		 time passed: 0:02:51.707454
+LBFGS epoch: 290		 loss: 3.709e-05		 time passed: 0:02:57.870936
+LBFGS epoch: 300		 loss: 3.68e-05		 time passed: 0:03:04.017135
+Training completed.
+Video created.
+
+
+12/03/2025 01:29:43 UTC+0000
+Content Image: /content/drive/MyDrive/Style_Transfer_Collection/HayleyWilliams.jpg
+Style Image: /content/drive/MyDrive/Style_Transfer_Collection/picasso2.jpg
+device: cuda, content_weight: 1, style_weight: 100.0, learning_rate_Adam: 0.06, learning_rate_LBFGS: 0.2, Adam_epoch: 0, LBFGS_epoch: 200, storage_limit: 200
+
+Content and Style images are retrieved.
+VGG 19 pre-trained model is created.
+Adam training begins...
+LBFGS training begins...
+LBFGS epoch: 10		 loss: 4.431e-05		 time passed: 0:00:05.561551
+LBFGS epoch: 20		 loss: 1.35e-05		 time passed: 0:00:11.720320
+LBFGS epoch: 30		 loss: 7.11e-06		 time passed: 0:00:17.842003
+LBFGS epoch: 40		 loss: 5.48e-06		 time passed: 0:00:23.960073
+LBFGS epoch: 50		 loss: 4.84e-06		 time passed: 0:00:30.104106
+LBFGS epoch: 60		 loss: 4.51e-06		 time passed: 0:00:36.391598
+LBFGS epoch: 70		 loss: 4.3e-06		 time passed: 0:00:42.528172
+LBFGS epoch: 80		 loss: 4.16e-06		 time passed: 0:00:48.685049
+LBFGS epoch: 90		 loss: 4.06e-06		 time passed: 0:00:54.806795
+LBFGS epoch: 100		 loss: 3.99e-06		 time passed: 0:01:00.948783
+LBFGS epoch: 110		 loss: 3.93e-06		 time passed: 0:01:07.223022
+LBFGS epoch: 120		 loss: 3.89e-06		 time passed: 0:01:13.351820
+LBFGS epoch: 130		 loss: 3.85e-06		 time passed: 0:01:19.479162
+LBFGS epoch: 140		 loss: 3.82e-06		 time passed: 0:01:25.615547
+LBFGS epoch: 150		 loss: 3.79e-06		 time passed: 0:01:31.751221
+LBFGS epoch: 160		 loss: 3.77e-06		 time passed: 0:01:38.026679
+LBFGS epoch: 170		 loss: 3.75e-06		 time passed: 0:01:44.149288
+LBFGS epoch: 180		 loss: 3.73e-06		 time passed: 0:01:50.302974
+LBFGS epoch: 190		 loss: 3.71e-06		 time passed: 0:01:56.428338
+LBFGS epoch: 200		 loss: 3.7e-06		 time passed: 0:02:02.562861
+Training completed.
+Video created.
+
+
+12/03/2025 01:31:51 UTC+0000
+Content Image: /content/drive/MyDrive/Style_Transfer_Collection/HayleyWilliams.jpg
+Style Image: /content/drive/MyDrive/Style_Transfer_Collection/picasso4.jpg
+device: cuda, content_weight: 1, style_weight: 100.0, learning_rate_Adam: 0.06, learning_rate_LBFGS: 0.2, Adam_epoch: 0, LBFGS_epoch: 200, storage_limit: 200
+
+Content and Style images are retrieved.
+VGG 19 pre-trained model is created.
+Adam training begins...
+LBFGS training begins...
+LBFGS epoch: 10		 loss: 3.85e-06		 time passed: 0:00:05.538700
+LBFGS epoch: 20		 loss: 1.9e-06		 time passed: 0:00:11.664677
+LBFGS epoch: 30		 loss: 1.61e-06		 time passed: 0:00:17.797714
+LBFGS epoch: 40		 loss: 1.52e-06		 time passed: 0:00:23.906483
+LBFGS epoch: 50		 loss: 1.48e-06		 time passed: 0:00:30.049595
+LBFGS epoch: 60		 loss: 1.46e-06		 time passed: 0:00:36.324021
+LBFGS epoch: 70		 loss: 1.44e-06		 time passed: 0:00:42.496056
+LBFGS epoch: 80		 loss: 1.43e-06		 time passed: 0:00:48.639417
+LBFGS epoch: 90		 loss: 1.42e-06		 time passed: 0:00:54.813664
+LBFGS epoch: 100		 loss: 1.42e-06		 time passed: 0:01:01.045667
+LBFGS epoch: 110		 loss: 1.41e-06		 time passed: 0:01:07.360195
+LBFGS epoch: 120		 loss: 1.41e-06		 time passed: 0:01:13.513768
+LBFGS epoch: 130		 loss: 1.4e-06		 time passed: 0:01:19.698091
+LBFGS epoch: 140		 loss: 1.4e-06		 time passed: 0:01:25.882275
+LBFGS epoch: 150		 loss: 1.4e-06		 time passed: 0:01:32.060733
+LBFGS epoch: 160		 loss: 1.39e-06		 time passed: 0:01:38.377831
+LBFGS epoch: 170		 loss: 1.39e-06		 time passed: 0:01:44.574948
+LBFGS epoch: 180		 loss: 1.39e-06		 time passed: 0:01:50.705901
+LBFGS epoch: 190		 loss: 1.39e-06		 time passed: 0:01:56.834209
+LBFGS epoch: 200		 loss: 1.39e-06		 time passed: 0:02:02.974594
+Training completed.
+Video created.
+
+
+12/03/2025 01:33:59 UTC+0000
+Content Image: /content/drive/MyDrive/Style_Transfer_Collection/Albert Einstein.jpg
+Style Image: /content/drive/MyDrive/Style_Transfer_Collection/picasso2.jpg
+device: cuda, content_weight: 1, style_weight: 100.0, learning_rate_Adam: 0.06, learning_rate_LBFGS: 0.2, Adam_epoch: 0, LBFGS_epoch: 200, storage_limit: 200
+
+Content and Style images are retrieved.
+VGG 19 pre-trained model is created.
+Adam training begins...
+LBFGS training begins...
+LBFGS epoch: 10		 loss: 6.961e-05		 time passed: 0:00:05.978546
+LBFGS epoch: 20		 loss: 2.3e-05		 time passed: 0:00:12.583722
+LBFGS epoch: 30		 loss: 1.065e-05		 time passed: 0:00:19.164873
+LBFGS epoch: 40		 loss: 6.75e-06		 time passed: 0:00:25.751036
+LBFGS epoch: 50		 loss: 5.43e-06		 time passed: 0:00:32.345663
+LBFGS epoch: 60		 loss: 4.88e-06		 time passed: 0:00:39.071595
+LBFGS epoch: 70		 loss: 4.57e-06		 time passed: 0:00:45.637589
+LBFGS epoch: 80		 loss: 4.38e-06		 time passed: 0:00:52.214157
+LBFGS epoch: 90		 loss: 4.23e-06		 time passed: 0:00:58.788535
+LBFGS epoch: 100		 loss: 4.13e-06		 time passed: 0:01:05.368423
+LBFGS epoch: 110		 loss: 4.04e-06		 time passed: 0:01:12.096694
+LBFGS epoch: 120		 loss: 3.98e-06		 time passed: 0:01:18.677380
+LBFGS epoch: 130		 loss: 3.92e-06		 time passed: 0:01:25.247713
+LBFGS epoch: 140		 loss: 3.88e-06		 time passed: 0:01:31.809183
+LBFGS epoch: 150		 loss: 3.84e-06		 time passed: 0:01:38.376370
+LBFGS epoch: 160		 loss: 3.81e-06		 time passed: 0:01:45.130122
+LBFGS epoch: 170		 loss: 3.78e-06		 time passed: 0:01:51.741808
+LBFGS epoch: 180		 loss: 3.75e-06		 time passed: 0:01:58.360250
+LBFGS epoch: 190		 loss: 3.73e-06		 time passed: 0:02:04.955101
+LBFGS epoch: 200		 loss: 3.71e-06		 time passed: 0:02:11.564548
+Training completed.
+Video created.
+
+
+12/03/2025 01:36:16 UTC+0000
+Content Image: /content/drive/MyDrive/Style_Transfer_Collection/Albert Einstein.jpg
+Style Image: /content/drive/MyDrive/Style_Transfer_Collection/picasso4.jpg
+device: cuda, content_weight: 1, style_weight: 100.0, learning_rate_Adam: 0.06, learning_rate_LBFGS: 0.2, Adam_epoch: 0, LBFGS_epoch: 200, storage_limit: 200
+
+Content and Style images are retrieved.
+VGG 19 pre-trained model is created.
+Adam training begins...
+LBFGS training begins...
+LBFGS epoch: 10		 loss: 3.31e-06		 time passed: 0:00:05.976069
+LBFGS epoch: 20		 loss: 2.02e-06		 time passed: 0:00:12.559951
+LBFGS epoch: 30		 loss: 1.76e-06		 time passed: 0:00:19.136755
+LBFGS epoch: 40		 loss: 1.67e-06		 time passed: 0:00:25.723519
+LBFGS epoch: 50		 loss: 1.63e-06		 time passed: 0:00:32.326032
+LBFGS epoch: 60		 loss: 1.6e-06		 time passed: 0:00:39.050032
+LBFGS epoch: 70		 loss: 1.58e-06		 time passed: 0:00:45.688419
+LBFGS epoch: 80		 loss: 1.57e-06		 time passed: 0:00:52.291764
+LBFGS epoch: 90		 loss: 1.56e-06		 time passed: 0:00:58.899349
+LBFGS epoch: 100		 loss: 1.55e-06		 time passed: 0:01:05.494915
+LBFGS epoch: 110		 loss: 1.54e-06		 time passed: 0:01:12.200536
+LBFGS epoch: 120		 loss: 1.54e-06		 time passed: 0:01:18.814826
+LBFGS epoch: 130		 loss: 1.53e-06		 time passed: 0:01:25.412718
+LBFGS epoch: 140		 loss: 1.53e-06		 time passed: 0:01:32.029292
+LBFGS epoch: 150		 loss: 1.53e-06		 time passed: 0:01:38.622030
+LBFGS epoch: 160		 loss: 1.52e-06		 time passed: 0:01:45.381746
+LBFGS epoch: 170		 loss: 1.52e-06		 time passed: 0:01:51.969115
+LBFGS epoch: 180		 loss: 1.52e-06		 time passed: 0:01:58.563529
+LBFGS epoch: 190		 loss: 1.52e-06		 time passed: 0:02:05.171157
+LBFGS epoch: 200		 loss: 1.51e-06		 time passed: 0:02:11.774977
+Training completed.
+Video created.
+
+
+12/03/2025 01:38:36 UTC+0000
+Content Image: /content/drive/MyDrive/Style_Transfer_Collection/MonaLisa.jpg
+Style Image: /content/drive/MyDrive/Style_Transfer_Collection/picasso2.jpg
+device: cuda, content_weight: 1, style_weight: 100.0, learning_rate_Adam: 0.06, learning_rate_LBFGS: 0.2, Adam_epoch: 0, LBFGS_epoch: 200, storage_limit: 200
+
+Content and Style images are retrieved.
+VGG 19 pre-trained model is created.
+Adam training begins...
+LBFGS training begins...
+LBFGS epoch: 10		 loss: 4.923e-05		 time passed: 0:00:06.371156
+LBFGS epoch: 20		 loss: 1.333e-05		 time passed: 0:00:13.348218
+LBFGS epoch: 30		 loss: 7.41e-06		 time passed: 0:00:20.318981
+LBFGS epoch: 40		 loss: 5.65e-06		 time passed: 0:00:27.308921
+LBFGS epoch: 50		 loss: 4.8e-06		 time passed: 0:00:34.310284
+LBFGS epoch: 60		 loss: 4.29e-06		 time passed: 0:00:41.414778
+LBFGS epoch: 70		 loss: 3.97e-06		 time passed: 0:00:48.395152
+LBFGS epoch: 80		 loss: 3.75e-06		 time passed: 0:00:55.372033
+LBFGS epoch: 90		 loss: 3.6e-06		 time passed: 0:01:02.343430
+LBFGS epoch: 100		 loss: 3.49e-06		 time passed: 0:01:09.317020
+LBFGS epoch: 110		 loss: 3.4e-06		 time passed: 0:01:16.434276
+LBFGS epoch: 120		 loss: 3.33e-06		 time passed: 0:01:23.437443
+LBFGS epoch: 130		 loss: 3.27e-06		 time passed: 0:01:30.421187
+LBFGS epoch: 140		 loss: 3.22e-06		 time passed: 0:01:37.420120
+LBFGS epoch: 150		 loss: 3.18e-06		 time passed: 0:01:44.403026
+LBFGS epoch: 160		 loss: 3.14e-06		 time passed: 0:01:51.557352
+LBFGS epoch: 170		 loss: 3.11e-06		 time passed: 0:01:58.554856
+LBFGS epoch: 180		 loss: 3.09e-06		 time passed: 0:02:05.593477
+LBFGS epoch: 190		 loss: 3.06e-06		 time passed: 0:02:12.574891
+LBFGS epoch: 200		 loss: 3.04e-06		 time passed: 0:02:19.563789
+Training completed.
+Video created.
+
+
+12/03/2025 01:41:04 UTC+0000
+Content Image: /content/drive/MyDrive/Style_Transfer_Collection/MonaLisa.jpg
+Style Image: /content/drive/MyDrive/Style_Transfer_Collection/picasso4.jpg
+device: cuda, content_weight: 1, style_weight: 100.0, learning_rate_Adam: 0.06, learning_rate_LBFGS: 0.2, Adam_epoch: 0, LBFGS_epoch: 200, storage_limit: 200
+
+Content and Style images are retrieved.
+VGG 19 pre-trained model is created.
+Adam training begins...
+LBFGS training begins...
+LBFGS epoch: 10		 loss: 2.9e-06		 time passed: 0:00:06.368169
+LBFGS epoch: 20		 loss: 1.61e-06		 time passed: 0:00:13.342780
+LBFGS epoch: 30		 loss: 1.31e-06		 time passed: 0:00:20.317889
+LBFGS epoch: 40		 loss: 1.21e-06		 time passed: 0:00:27.296511
+LBFGS epoch: 50		 loss: 1.18e-06		 time passed: 0:00:34.279376
+LBFGS epoch: 60		 loss: 1.15e-06		 time passed: 0:00:41.407715
+LBFGS epoch: 70		 loss: 1.14e-06		 time passed: 0:00:48.431312
+LBFGS epoch: 80		 loss: 1.13e-06		 time passed: 0:00:55.437370
+LBFGS epoch: 90		 loss: 1.12e-06		 time passed: 0:01:02.413577
+LBFGS epoch: 100		 loss: 1.12e-06		 time passed: 0:01:09.427768
+LBFGS epoch: 110		 loss: 1.11e-06		 time passed: 0:01:16.541898
+LBFGS epoch: 120		 loss: 1.11e-06		 time passed: 0:01:23.525036
+LBFGS epoch: 130		 loss: 1.1e-06		 time passed: 0:01:30.542137
+LBFGS epoch: 140		 loss: 1.1e-06		 time passed: 0:01:37.499746
+LBFGS epoch: 150		 loss: 1.1e-06		 time passed: 0:01:44.456597
+LBFGS epoch: 160		 loss: 1.1e-06		 time passed: 0:01:51.536678
+LBFGS epoch: 170		 loss: 1.1e-06		 time passed: 0:01:58.517754
+LBFGS epoch: 180		 loss: 1.09e-06		 time passed: 0:02:05.484404
+LBFGS epoch: 190		 loss: 1.09e-06		 time passed: 0:02:12.445756
+LBFGS epoch: 200		 loss: 1.09e-06		 time passed: 0:02:19.427429
+Training completed.
+Video created.
+
+
+12/03/2025 01:43:29 UTC+0000
+Content Image: /content/drive/MyDrive/Style_Transfer_Collection/HayleyWilliams.jpg
+Style Image: /content/drive/MyDrive/Style_Transfer_Collection/picasso5.jpg
+device: cuda, content_weight: 1, style_weight: 100.0, learning_rate_Adam: 0.06, learning_rate_LBFGS: 0.2, Adam_epoch: 0, LBFGS_epoch: 200, storage_limit: 200
+
+Content and Style images are retrieved.
+VGG 19 pre-trained model is created.
+Adam training begins...
+LBFGS training begins...
+LBFGS epoch: 10		 loss: 2.5e-06		 time passed: 0:00:05.557672
+LBFGS epoch: 20		 loss: 1.29e-06		 time passed: 0:00:11.706355
+LBFGS epoch: 30		 loss: 1.16e-06		 time passed: 0:00:17.843566
+LBFGS epoch: 40		 loss: 1.11e-06		 time passed: 0:00:23.974735
+LBFGS epoch: 50		 loss: 1.09e-06		 time passed: 0:00:30.147895
+LBFGS epoch: 60		 loss: 1.07e-06		 time passed: 0:00:36.463366
+LBFGS epoch: 70		 loss: 1.06e-06		 time passed: 0:00:42.646215
+LBFGS epoch: 80		 loss: 1.05e-06		 time passed: 0:00:48.822028
+LBFGS epoch: 90		 loss: 1.05e-06		 time passed: 0:00:54.993706
+LBFGS epoch: 100		 loss: 1.04e-06		 time passed: 0:01:01.159791
+LBFGS epoch: 110		 loss: 1.04e-06		 time passed: 0:01:07.489432
+LBFGS epoch: 120		 loss: 1.04e-06		 time passed: 0:01:13.627792
+LBFGS epoch: 130		 loss: 1.03e-06		 time passed: 0:01:19.798704
+LBFGS epoch: 140		 loss: 1.03e-06		 time passed: 0:01:25.948223
+LBFGS epoch: 150		 loss: 1.03e-06		 time passed: 0:01:32.109024
+LBFGS epoch: 160		 loss: 1.03e-06		 time passed: 0:01:38.440814
+LBFGS epoch: 170		 loss: 1.02e-06		 time passed: 0:01:44.623156
+LBFGS epoch: 180		 loss: 1.02e-06		 time passed: 0:01:50.767149
+LBFGS epoch: 190		 loss: 1.02e-06		 time passed: 0:01:56.933791
+LBFGS epoch: 200		 loss: 1.02e-06		 time passed: 0:02:03.074418
+Training completed.
+Video created.
+
+
+12/03/2025 01:45:38 UTC+0000
+Content Image: /content/drive/MyDrive/Style_Transfer_Collection/HayleyWilliams.jpg
+Style Image: /content/drive/MyDrive/Style_Transfer_Collection/picasso6.jpg
+device: cuda, content_weight: 1, style_weight: 100.0, learning_rate_Adam: 0.06, learning_rate_LBFGS: 0.2, Adam_epoch: 0, LBFGS_epoch: 200, storage_limit: 200
+
+Content and Style images are retrieved.
+VGG 19 pre-trained model is created.
+Adam training begins...
+LBFGS training begins...
+LBFGS epoch: 10		 loss: 2.21e-06		 time passed: 0:00:05.569947
+LBFGS epoch: 20		 loss: 1.46e-06		 time passed: 0:00:11.743467
+LBFGS epoch: 30		 loss: 1.31e-06		 time passed: 0:00:17.887471
+LBFGS epoch: 40		 loss: 1.26e-06		 time passed: 0:00:24.070448
+LBFGS epoch: 50		 loss: 1.24e-06		 time passed: 0:00:30.222998
+LBFGS epoch: 60		 loss: 1.22e-06		 time passed: 0:00:36.523523
+LBFGS epoch: 70		 loss: 1.21e-06		 time passed: 0:00:42.680857
+LBFGS epoch: 80		 loss: 1.21e-06		 time passed: 0:00:48.845172
+LBFGS epoch: 90		 loss: 1.2e-06		 time passed: 0:00:54.999646
+LBFGS epoch: 100		 loss: 1.19e-06		 time passed: 0:01:01.155931
+LBFGS epoch: 110		 loss: 1.19e-06		 time passed: 0:01:07.449843
+LBFGS epoch: 120		 loss: 1.19e-06		 time passed: 0:01:13.601067
+LBFGS epoch: 130		 loss: 1.18e-06		 time passed: 0:01:19.744053
+LBFGS epoch: 140		 loss: 1.18e-06		 time passed: 0:01:25.912540
+LBFGS epoch: 150		 loss: 1.18e-06		 time passed: 0:01:32.057630
+LBFGS epoch: 160		 loss: 1.18e-06		 time passed: 0:01:38.381965
+LBFGS epoch: 170		 loss: 1.18e-06		 time passed: 0:01:44.529108
+LBFGS epoch: 180		 loss: 1.17e-06		 time passed: 0:01:50.698522
+LBFGS epoch: 190		 loss: 1.17e-06		 time passed: 0:01:56.840676
+LBFGS epoch: 200		 loss: 1.17e-06		 time passed: 0:02:02.525123
+Training completed.
+Video created.
+
+
+12/03/2025 01:47:45 UTC+0000
+Content Image: /content/drive/MyDrive/Style_Transfer_Collection/Albert Einstein.jpg
+Style Image: /content/drive/MyDrive/Style_Transfer_Collection/picasso5.jpg
+device: cuda, content_weight: 1, style_weight: 100.0, learning_rate_Adam: 0.06, learning_rate_LBFGS: 0.2, Adam_epoch: 0, LBFGS_epoch: 200, storage_limit: 200
+
+Content and Style images are retrieved.
+VGG 19 pre-trained model is created.
+Adam training begins...
+LBFGS training begins...
+LBFGS epoch: 10		 loss: 2.46e-06		 time passed: 0:00:05.996392
+LBFGS epoch: 20		 loss: 1.23e-06		 time passed: 0:00:12.586318
+LBFGS epoch: 30		 loss: 1.1e-06		 time passed: 0:00:19.183350
+LBFGS epoch: 40		 loss: 1.06e-06		 time passed: 0:00:25.788423
+LBFGS epoch: 50		 loss: 1.03e-06		 time passed: 0:00:32.403391
+LBFGS epoch: 60		 loss: 1.02e-06		 time passed: 0:00:39.156444
+LBFGS epoch: 70		 loss: 1.01e-06		 time passed: 0:00:45.744453
+LBFGS epoch: 80		 loss: 1e-06		 time passed: 0:00:52.354228
+LBFGS epoch: 90		 loss: 9.9e-07		 time passed: 0:00:58.936012
+LBFGS epoch: 100		 loss: 9.9e-07		 time passed: 0:01:05.544486
+LBFGS epoch: 110		 loss: 9.8e-07		 time passed: 0:01:12.255011
+LBFGS epoch: 120		 loss: 9.8e-07		 time passed: 0:01:18.839423
+LBFGS epoch: 130		 loss: 9.8e-07		 time passed: 0:01:25.414814
+LBFGS epoch: 140		 loss: 9.7e-07		 time passed: 0:01:31.980527
+LBFGS epoch: 150		 loss: 9.7e-07		 time passed: 0:01:38.543210
+LBFGS epoch: 160		 loss: 9.7e-07		 time passed: 0:01:45.240192
+LBFGS epoch: 170		 loss: 9.7e-07		 time passed: 0:01:51.812497
+LBFGS epoch: 180		 loss: 9.7e-07		 time passed: 0:01:58.412786
+LBFGS epoch: 190		 loss: 9.7e-07		 time passed: 0:02:04.995807
+LBFGS epoch: 200		 loss: 9.7e-07		 time passed: 0:02:11.584121
+Training completed.
+Video created.
+
+
+12/03/2025 01:50:02 UTC+0000
+Content Image: /content/drive/MyDrive/Style_Transfer_Collection/Albert Einstein.jpg
+Style Image: /content/drive/MyDrive/Style_Transfer_Collection/picasso6.jpg
+device: cuda, content_weight: 1, style_weight: 100.0, learning_rate_Adam: 0.06, learning_rate_LBFGS: 0.2, Adam_epoch: 0, LBFGS_epoch: 200, storage_limit: 200
+
+Content and Style images are retrieved.
+VGG 19 pre-trained model is created.
+Adam training begins...
+LBFGS training begins...
+LBFGS epoch: 10		 loss: 4.13e-06		 time passed: 0:00:06.013127
+LBFGS epoch: 20		 loss: 1.77e-06		 time passed: 0:00:12.581438
+LBFGS epoch: 30		 loss: 1.51e-06		 time passed: 0:00:19.166046
+LBFGS epoch: 40		 loss: 1.42e-06		 time passed: 0:00:25.756745
+LBFGS epoch: 50		 loss: 1.38e-06		 time passed: 0:00:32.335136
+LBFGS epoch: 60		 loss: 1.36e-06		 time passed: 0:00:39.054810
+LBFGS epoch: 70		 loss: 1.34e-06		 time passed: 0:00:45.634005
+LBFGS epoch: 80		 loss: 1.33e-06		 time passed: 0:00:52.235786
+LBFGS epoch: 90		 loss: 1.33e-06		 time passed: 0:00:58.820844
+LBFGS epoch: 100		 loss: 1.32e-06		 time passed: 0:01:05.416613
+LBFGS epoch: 110		 loss: 1.31e-06		 time passed: 0:01:12.108933
+LBFGS epoch: 120		 loss: 1.31e-06		 time passed: 0:01:18.699676
+LBFGS epoch: 130		 loss: 1.31e-06		 time passed: 0:01:25.313826
+LBFGS epoch: 140		 loss: 1.3e-06		 time passed: 0:01:31.909318
+LBFGS epoch: 150		 loss: 1.3e-06		 time passed: 0:01:38.529291
+LBFGS epoch: 160		 loss: 1.3e-06		 time passed: 0:01:45.255188
+LBFGS epoch: 170		 loss: 1.3e-06		 time passed: 0:01:51.833341
+LBFGS epoch: 180		 loss: 1.29e-06		 time passed: 0:01:58.410515
+LBFGS epoch: 190		 loss: 1.29e-06		 time passed: 0:02:04.989480
+LBFGS epoch: 200		 loss: 1.29e-06		 time passed: 0:02:11.584202
+Training completed.
+Video created.
+
+
+12/03/2025 01:52:22 UTC+0000
+Content Image: /content/drive/MyDrive/Style_Transfer_Collection/MonaLisa.jpg
+Style Image: /content/drive/MyDrive/Style_Transfer_Collection/picasso5.jpg
+device: cuda, content_weight: 1, style_weight: 100.0, learning_rate_Adam: 0.06, learning_rate_LBFGS: 0.2, Adam_epoch: 0, LBFGS_epoch: 200, storage_limit: 200
+
+Content and Style images are retrieved.
+VGG 19 pre-trained model is created.
+Adam training begins...
+LBFGS training begins...
+LBFGS epoch: 10		 loss: 1.73e-06		 time passed: 0:00:06.374812
+LBFGS epoch: 20		 loss: 9.6e-07		 time passed: 0:00:13.317729
+LBFGS epoch: 30		 loss: 8.9e-07		 time passed: 0:00:20.270702
+LBFGS epoch: 40		 loss: 8.6e-07		 time passed: 0:00:27.246696
+LBFGS epoch: 50		 loss: 8.4e-07		 time passed: 0:00:34.185858
+LBFGS epoch: 60		 loss: 8.3e-07		 time passed: 0:00:41.309290
+LBFGS epoch: 70		 loss: 8.2e-07		 time passed: 0:00:48.273945
+LBFGS epoch: 80		 loss: 8.1e-07		 time passed: 0:00:55.255806
+LBFGS epoch: 90		 loss: 8.1e-07		 time passed: 0:01:02.222601
+LBFGS epoch: 100		 loss: 8.1e-07		 time passed: 0:01:09.197879
+LBFGS epoch: 110		 loss: 8e-07		 time passed: 0:01:16.304373
+LBFGS epoch: 120		 loss: 8e-07		 time passed: 0:01:23.288209
+LBFGS epoch: 130		 loss: 8e-07		 time passed: 0:01:30.268121
+LBFGS epoch: 140		 loss: 7.9e-07		 time passed: 0:01:37.234472
+LBFGS epoch: 150		 loss: 7.9e-07		 time passed: 0:01:44.200480
+LBFGS epoch: 160		 loss: 7.9e-07		 time passed: 0:01:51.299640
+LBFGS epoch: 170		 loss: 7.9e-07		 time passed: 0:01:58.278162
+LBFGS epoch: 180		 loss: 7.9e-07		 time passed: 0:02:05.258245
+LBFGS epoch: 190		 loss: 7.9e-07		 time passed: 0:02:12.244079
+LBFGS epoch: 200		 loss: 7.9e-07		 time passed: 0:02:19.210023
+Training completed.
+Video created.
+
+
+12/03/2025 01:54:49 UTC+0000
+Content Image: /content/drive/MyDrive/Style_Transfer_Collection/MonaLisa.jpg
+Style Image: /content/drive/MyDrive/Style_Transfer_Collection/picasso6.jpg
+device: cuda, content_weight: 1, style_weight: 100.0, learning_rate_Adam: 0.06, learning_rate_LBFGS: 0.2, Adam_epoch: 0, LBFGS_epoch: 200, storage_limit: 200
+
+Content and Style images are retrieved.
+VGG 19 pre-trained model is created.
+Adam training begins...
+LBFGS training begins...
+LBFGS epoch: 10		 loss: 2.81e-06		 time passed: 0:00:06.289266
+LBFGS epoch: 20		 loss: 1.46e-06		 time passed: 0:00:13.182607
+LBFGS epoch: 30		 loss: 1.21e-06		 time passed: 0:00:20.065519
+LBFGS epoch: 40		 loss: 1.12e-06		 time passed: 0:00:26.961319
+LBFGS epoch: 50		 loss: 1.08e-06		 time passed: 0:00:33.853788
+LBFGS epoch: 60		 loss: 1.05e-06		 time passed: 0:00:40.873292
+LBFGS epoch: 70		 loss: 1.04e-06		 time passed: 0:00:47.762084
+LBFGS epoch: 80		 loss: 1.03e-06		 time passed: 0:00:54.655155
+LBFGS epoch: 90		 loss: 1.02e-06		 time passed: 0:01:01.552930
+LBFGS epoch: 100		 loss: 1.02e-06		 time passed: 0:01:08.527276
+LBFGS epoch: 110		 loss: 1.01e-06		 time passed: 0:01:15.631843
+LBFGS epoch: 120		 loss: 1.01e-06		 time passed: 0:01:22.605834
+LBFGS epoch: 130		 loss: 1e-06		 time passed: 0:01:29.602925
+LBFGS epoch: 140		 loss: 1e-06		 time passed: 0:01:36.583954
+LBFGS epoch: 150		 loss: 1e-06		 time passed: 0:01:43.550263
+LBFGS epoch: 160		 loss: 1e-06		 time passed: 0:01:50.670986
+LBFGS epoch: 170		 loss: 9.9e-07		 time passed: 0:01:57.672326
+LBFGS epoch: 180		 loss: 9.9e-07		 time passed: 0:02:04.649583
+LBFGS epoch: 190		 loss: 9.9e-07		 time passed: 0:02:11.618979
+LBFGS epoch: 200		 loss: 9.9e-07		 time passed: 0:02:18.594935
+Training completed.
+Video created.
+
+
+12/03/2025 01:57:13 UTC+0000
+Content Image: /content/drive/MyDrive/Style_Transfer_Collection/HayleyWilliams.jpg
+Style Image: /content/drive/MyDrive/Style_Transfer_Collection/StarryNight.jpg
+device: cuda, content_weight: 1, style_weight: 100.0, learning_rate_Adam: 0.06, learning_rate_LBFGS: 0.2, Adam_epoch: 0, LBFGS_epoch: 200, storage_limit: 200
+
+Content and Style images are retrieved.
+VGG 19 pre-trained model is created.
+Adam training begins...
+LBFGS training begins...
+LBFGS epoch: 10		 loss: 2.88e-06		 time passed: 0:00:05.558601
+LBFGS epoch: 20		 loss: 1.1e-06		 time passed: 0:00:11.773974
+LBFGS epoch: 30		 loss: 9.6e-07		 time passed: 0:00:17.943931
+LBFGS epoch: 40		 loss: 9.2e-07		 time passed: 0:00:24.119839
+LBFGS epoch: 50		 loss: 9e-07		 time passed: 0:00:30.337209
+LBFGS epoch: 60		 loss: 8.8e-07		 time passed: 0:00:36.687327
+LBFGS epoch: 70		 loss: 8.8e-07		 time passed: 0:00:42.824542
+LBFGS epoch: 80		 loss: 8.7e-07		 time passed: 0:00:48.990010
+LBFGS epoch: 90		 loss: 8.7e-07		 time passed: 0:00:55.171685
+LBFGS epoch: 100		 loss: 8.6e-07		 time passed: 0:01:01.338795
+LBFGS epoch: 110		 loss: 8.6e-07		 time passed: 0:01:07.629880
+LBFGS epoch: 120		 loss: 8.6e-07		 time passed: 0:01:13.799667
+LBFGS epoch: 130		 loss: 8.6e-07		 time passed: 0:01:19.943177
+LBFGS epoch: 140		 loss: 8.6e-07		 time passed: 0:01:26.089063
+LBFGS epoch: 150		 loss: 8.5e-07		 time passed: 0:01:32.263094
+LBFGS epoch: 160		 loss: 8.5e-07		 time passed: 0:01:38.579137
+LBFGS epoch: 170		 loss: 8.5e-07		 time passed: 0:01:44.735289
+LBFGS epoch: 180		 loss: 8.5e-07		 time passed: 0:01:50.888243
+LBFGS epoch: 190		 loss: 8.5e-07		 time passed: 0:01:57.055612
+LBFGS epoch: 200		 loss: 8.5e-07		 time passed: 0:02:03.179442
+Training completed.
+Video created.
+
+
+12/03/2025 01:59:22 UTC+0000
+Content Image: /content/drive/MyDrive/Style_Transfer_Collection/Albert Einstein.jpg
+Style Image: /content/drive/MyDrive/Style_Transfer_Collection/StarryNight.jpg
+device: cuda, content_weight: 1, style_weight: 100.0, learning_rate_Adam: 0.06, learning_rate_LBFGS: 0.2, Adam_epoch: 0, LBFGS_epoch: 200, storage_limit: 200
+
+Content and Style images are retrieved.
+VGG 19 pre-trained model is created.
+Adam training begins...
+LBFGS training begins...
+LBFGS epoch: 10		 loss: 1.38e-06		 time passed: 0:00:06.017066
+LBFGS epoch: 20		 loss: 1.01e-06		 time passed: 0:00:12.629207
+LBFGS epoch: 30		 loss: 9.3e-07		 time passed: 0:00:19.229030
+LBFGS epoch: 40		 loss: 8.9e-07		 time passed: 0:00:25.837742
+LBFGS epoch: 50		 loss: 8.7e-07		 time passed: 0:00:32.437558
+LBFGS epoch: 60		 loss: 8.6e-07		 time passed: 0:00:39.172075
+LBFGS epoch: 70		 loss: 8.5e-07		 time passed: 0:00:45.776973
+LBFGS epoch: 80		 loss: 8.4e-07		 time passed: 0:00:52.371426
+LBFGS epoch: 90		 loss: 8.4e-07		 time passed: 0:00:58.966607
+LBFGS epoch: 100		 loss: 8.3e-07		 time passed: 0:01:05.565651
+LBFGS epoch: 110		 loss: 8.3e-07		 time passed: 0:01:12.287291
+LBFGS epoch: 120		 loss: 8.3e-07		 time passed: 0:01:18.875712
+LBFGS epoch: 130		 loss: 8.3e-07		 time passed: 0:01:25.467327
+LBFGS epoch: 140		 loss: 8.3e-07		 time passed: 0:01:32.076057
+LBFGS epoch: 150		 loss: 8.3e-07		 time passed: 0:01:38.652410
+LBFGS epoch: 160		 loss: 8.2e-07		 time passed: 0:01:45.397676
+LBFGS epoch: 170		 loss: 8.2e-07		 time passed: 0:01:52.013721
+LBFGS epoch: 180		 loss: 8.2e-07		 time passed: 0:01:58.635945
+LBFGS epoch: 190		 loss: 8.2e-07		 time passed: 0:02:05.226691
+LBFGS epoch: 200		 loss: 8.2e-07		 time passed: 0:02:11.812779
+Training completed.
+Video created.
+
+
+12/03/2025 02:01:41 UTC+0000
+Content Image: /content/drive/MyDrive/Style_Transfer_Collection/MonaLisa.jpg
+Style Image: /content/drive/MyDrive/Style_Transfer_Collection/StarryNight.jpg
+device: cuda, content_weight: 1, style_weight: 100.0, learning_rate_Adam: 0.06, learning_rate_LBFGS: 0.2, Adam_epoch: 0, LBFGS_epoch: 200, storage_limit: 200
+
+Content and Style images are retrieved.
+VGG 19 pre-trained model is created.
+Adam training begins...
+LBFGS training begins...
+LBFGS epoch: 10		 loss: 1.13e-06		 time passed: 0:00:06.363383
+LBFGS epoch: 20		 loss: 7.9e-07		 time passed: 0:00:13.368280
+LBFGS epoch: 30		 loss: 7e-07		 time passed: 0:00:20.348400
+LBFGS epoch: 40		 loss: 6.7e-07		 time passed: 0:00:27.349730
+LBFGS epoch: 50		 loss: 6.5e-07		 time passed: 0:00:34.356200
+LBFGS epoch: 60		 loss: 6.4e-07		 time passed: 0:00:41.452422
+LBFGS epoch: 70		 loss: 6.3e-07		 time passed: 0:00:48.430722
+LBFGS epoch: 80		 loss: 6.3e-07		 time passed: 0:00:55.430112
+LBFGS epoch: 90		 loss: 6.3e-07		 time passed: 0:01:02.416528
+LBFGS epoch: 100		 loss: 6.2e-07		 time passed: 0:01:09.399393
+LBFGS epoch: 110		 loss: 6.2e-07		 time passed: 0:01:16.496074
+LBFGS epoch: 120		 loss: 6.2e-07		 time passed: 0:01:23.465667
+LBFGS epoch: 130		 loss: 6.2e-07		 time passed: 0:01:30.448595
+LBFGS epoch: 140		 loss: 6.2e-07		 time passed: 0:01:37.429258
+LBFGS epoch: 150		 loss: 6.2e-07		 time passed: 0:01:44.422513
+LBFGS epoch: 160		 loss: 6.2e-07		 time passed: 0:01:51.518540
+LBFGS epoch: 170		 loss: 6.1e-07		 time passed: 0:01:58.484136
+LBFGS epoch: 180		 loss: 6.1e-07		 time passed: 0:02:05.442674
+LBFGS epoch: 190		 loss: 6.1e-07		 time passed: 0:02:12.396199
+LBFGS epoch: 200		 loss: 6.1e-07		 time passed: 0:02:19.190979
+Training completed.
+Video created.
+
+
+12/03/2025 02:04:07 UTC+0000
+Content Image: /content/drive/MyDrive/Style_Transfer_Collection/mountain3.jpg
+Style Image: /content/drive/MyDrive/Style_Transfer_Collection/StarryNight.jpg
+device: cuda, content_weight: 1, style_weight: 100.0, learning_rate_Adam: 0.06, learning_rate_LBFGS: 0.2, Adam_epoch: 0, LBFGS_epoch: 200, storage_limit: 200
+
+Content and Style images are retrieved.
+VGG 19 pre-trained model is created.
+Adam training begins...
+LBFGS training begins...
+LBFGS epoch: 10		 loss: 9.9e-07		 time passed: 0:00:06.388712
+LBFGS epoch: 20		 loss: 7.3e-07		 time passed: 0:00:13.390834
+LBFGS epoch: 30		 loss: 6.7e-07		 time passed: 0:00:20.367532
+LBFGS epoch: 40		 loss: 6.4e-07		 time passed: 0:00:27.347995
+LBFGS epoch: 50		 loss: 6.2e-07		 time passed: 0:00:34.329243
+LBFGS epoch: 60		 loss: 6.1e-07		 time passed: 0:00:41.479023
+LBFGS epoch: 70		 loss: 6.1e-07		 time passed: 0:00:48.480326
+LBFGS epoch: 80		 loss: 6e-07		 time passed: 0:00:55.472438
+LBFGS epoch: 90		 loss: 6e-07		 time passed: 0:01:02.486472
+LBFGS epoch: 100		 loss: 6e-07		 time passed: 0:01:09.460469
+LBFGS epoch: 110		 loss: 6e-07		 time passed: 0:01:16.638788
+LBFGS epoch: 120		 loss: 5.9e-07		 time passed: 0:01:23.656861
+LBFGS epoch: 130		 loss: 5.9e-07		 time passed: 0:01:30.636749
+LBFGS epoch: 140		 loss: 5.9e-07		 time passed: 0:01:37.624199
+LBFGS epoch: 150		 loss: 5.9e-07		 time passed: 0:01:44.623517
+LBFGS epoch: 160		 loss: 5.9e-07		 time passed: 0:01:51.807420
+LBFGS epoch: 170		 loss: 5.9e-07		 time passed: 0:01:58.806402
+LBFGS epoch: 180		 loss: 5.9e-07		 time passed: 0:02:05.804309
+LBFGS epoch: 190		 loss: 5.9e-07		 time passed: 0:02:12.805117
+LBFGS epoch: 200		 loss: 5.9e-07		 time passed: 0:02:19.796402
+Training completed.
+Video created.
+
+
+12/03/2025 02:06:33 UTC+0000
+Content Image: /content/drive/MyDrive/Style_Transfer_Collection/scene1.jpg
+Style Image: /content/drive/MyDrive/Style_Transfer_Collection/StarryNight.jpg
+device: cuda, content_weight: 1, style_weight: 100.0, learning_rate_Adam: 0.06, learning_rate_LBFGS: 0.2, Adam_epoch: 0, LBFGS_epoch: 200, storage_limit: 200
+
+Content and Style images are retrieved.
+VGG 19 pre-trained model is created.
+Adam training begins...
+LBFGS training begins...
+LBFGS epoch: 10		 loss: 2.11e-06		 time passed: 0:00:06.349084
+LBFGS epoch: 20		 loss: 9.4e-07		 time passed: 0:00:13.382396
+LBFGS epoch: 30		 loss: 8.1e-07		 time passed: 0:00:20.362733
+LBFGS epoch: 40		 loss: 7.7e-07		 time passed: 0:00:27.346709
+LBFGS epoch: 50		 loss: 7.5e-07		 time passed: 0:00:34.330802
+LBFGS epoch: 60		 loss: 7.4e-07		 time passed: 0:00:41.478003
+LBFGS epoch: 70		 loss: 7.3e-07		 time passed: 0:00:48.474069
+LBFGS epoch: 80		 loss: 7.3e-07		 time passed: 0:00:55.447891
+LBFGS epoch: 90		 loss: 7.2e-07		 time passed: 0:01:02.461415
+LBFGS epoch: 100		 loss: 7.2e-07		 time passed: 0:01:09.458084
+LBFGS epoch: 110		 loss: 7.2e-07		 time passed: 0:01:16.643861
+LBFGS epoch: 120		 loss: 7.1e-07		 time passed: 0:01:23.644637
+LBFGS epoch: 130		 loss: 7.1e-07		 time passed: 0:01:30.637522
+LBFGS epoch: 140		 loss: 7.1e-07		 time passed: 0:01:37.641279
+LBFGS epoch: 150		 loss: 7.1e-07		 time passed: 0:01:44.640177
+LBFGS epoch: 160		 loss: 7.1e-07		 time passed: 0:01:51.848083
+LBFGS epoch: 170		 loss: 7.1e-07		 time passed: 0:01:58.850228
+LBFGS epoch: 180		 loss: 7.1e-07		 time passed: 0:02:05.871508
+LBFGS epoch: 190		 loss: 7.1e-07		 time passed: 0:02:12.868987
+LBFGS epoch: 200		 loss: 7.1e-07		 time passed: 0:02:19.865955
+Training completed.
+Video created.
