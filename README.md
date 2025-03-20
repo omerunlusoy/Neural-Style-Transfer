@@ -42,7 +42,7 @@ $$ \mathcal{L}_{\textit{total}} (\alpha, \beta) = \alpha \, \mathcal{L}_{\textit
 
 
 ### Hyperparameters
-- __`Weight ratio (alpha / beta)`__ : we run an experiment with different style_weights = [1e-2, 1e-1, 1e1, 1e2, 1e4, 1e6].
+- __`Weight ratio (alpha / beta)`__ : we run an experiment with different style_weights = [1e-2, 1e-1, 1, 1e1, 1e2, 1e4].
 - __`Learning rate`__	: our experiment suggests an optimal value of 0.1 - 0.3 for LBFGS.
 - __`Epoch`__	: our experiment suggests an optimal value of 200 - 300 for LBFGS based on the the images.
 
