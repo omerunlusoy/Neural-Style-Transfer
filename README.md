@@ -21,7 +21,7 @@ A Neural Algorithm of Artistic Style is a Style Transfer algorithm proposed by G
 - Target image tries to optimize its contents close to the content image and its style close to the style image.
 
 ### Loss
-Loss function is the weighted sum of Content Loss $\mathcal{L}_{content}$ and Style Loss $\mathcal{L}_{\textit{style}}$.
+Loss function is the weighted sum of Content Loss $\mathcal{L}_c$ and Style Loss $\mathcal{L}_s}$.
 - $\vec{x}$ : target image
 - $\vec{p}$ : content image
 - $\vec{a}$ : style image
@@ -36,11 +36,11 @@ Loss function is the weighted sum of Content Loss $\mathcal{L}_{content}$ and St
 - $G(X)$ : Gram matrix of $X$
 
 
-$$ \mathcal{L}_{\textit{content}}(\vec{x}, \vec{p}, \vec{v}) = \sum_l v^l  ( F^l - P^l )^2 $$
+$$ \mathcal{L}_c}(\vec{x}, \vec{p}, \vec{v}) = \sum_l v^l  ( F^l - P^l )^2 $$
 
-$$ \mathcal{L}_{\textit{style}}(\vec{x}, \vec{a}, \vec{w}) = \sum_L w^L  ( G(F^L) - G(A^L) )^2 $$
+$$ \mathcal{L}_s}(\vec{x}, \vec{a}, \vec{w}) = \sum_L w^L  ( G(F^L) - G(A^L) )^2 $$
 
-$$ \mathcal{L}_{\textit{total}} (\alpha, \beta) = \alpha \mathcal{L}_{\textit{content}} + \beta \mathcal{L}_{\textit{style}} $$
+$$\mathcal{L}_{\textit{total}} (\alpha, \beta) = \alpha \mathcal{L}_c} + \beta \mathcal{L}_s}$$
 
 
 
