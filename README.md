@@ -37,7 +37,7 @@ Loss function is the weighted sum of Content Loss $\mathcal{L}_{\textit{content}
 
 $$x^2$$
 
-$$\sum_l v^l  ( F^l - P^l )^2$$
+$$\mathcal{L}_{\textit{content}}(\vec{x}, \vec{p}, \vec{v}) = \sum_l v^l  ( F^l - P^l )^2$$
 
 $$ \mathcal{L}_{\textit{content}}(\vec{x}, \vec{p}, \vec{v}) = \sum_l v^l  ( F^l - P^l )^2 $$
 $$ \mathcal{L}_{\textit{style}}(\vec{x}, \vec{a}, \vec{w}) = \sum_L w^L  ( G(F^L) - G(A^L) )^2 $$
