@@ -35,7 +35,7 @@ Loss function is the weighted sum of Content Loss $\mathcal{L}_{\textit{content}
 - $ w^L $ : Style weights
 - $ G(X) $ : Gram matrix of $X$
 
-s $ \vec{x} $
+s $\vec{x}$
 
 $$ \mathcal{L}_{\textit{content}}(\vec{x}, \vec{p}, \vec{v}) = \sum_l v^l  ( F^l - P^l )^2 $$
 
