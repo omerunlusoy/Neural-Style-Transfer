@@ -22,26 +22,26 @@ A Neural Algorithm of Artistic Style is a Style Transfer algorithm proposed by G
 
 ### Loss
 Loss function is the weighted sum of Content Loss $\mathcal{L}_{\textit{content}}$ and Style Loss $\mathcal{L}_{\textit{style}}$.
-- $ \vec{x} $ : target image
-- $ \vec{p} $ : content image
-- $ \vec{a} $ : style image
+- $\vec{x}$ : target image
+- $\vec{p}$ : content image
+- $\vec{a}$ : style image
 &nbsp;
-- $ F^l $ : Content Features of target image    &nbsp; ($l$ runs through Content Layers)
-- $ P^l $ : Content Features of content image 	
-- $ v^l $ : Content weights
+- $F^l$ : Content Features of target image    &nbsp; ($l$ runs through Content Layers)
+- $P^l$ : Content Features of content image 	
+- $v^l$ : Content weights
 &nbsp;
-- $ F^L $ : Style Features of target image  &nbsp; ($L$ runs through Style Layers)   
-- $ A^L $ : Style Features of style image
-- $ w^L $ : Style weights
-- $ G(X) $ : Gram matrix of $X$
+- $F^L$ : Style Features of target image  &nbsp; ($L$ runs through Style Layers)   
+- $A^L$ : Style Features of style image
+- $w^L$ : Style weights
+- $G(X)$ : Gram matrix of $X$
 
-s $\vec{x}$
 
 $$ \mathcal{L}_{\textit{content}}(\vec{x}, \vec{p}, \vec{v}) = \sum_l v^l  ( F^l - P^l )^2 $$
 
 $$ \mathcal{L}_{\textit{style}}(\vec{x}, \vec{a}, \vec{w}) = \sum_L w^L  ( G(F^L) - G(A^L) )^2 $$
 
 $$ \mathcal{L}_{\textit{total}} (\alpha, \beta) = \alpha \mathcal{L}_{\textit{content}} + \beta \mathcal{L}_{\textit{style}} $$
+
 
 
 ### Hyperparameters
