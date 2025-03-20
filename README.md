@@ -21,7 +21,7 @@ A Neural Algorithm of Artistic Style is a Style Transfer algorithm proposed by G
 - Target image tries to optimize its contents close to the content image and its style close to the style image.
 
 ### Loss
-Loss function is the weighted sum of Content Loss $\mathcal{L}_{\textit{content}}$ and Style Loss $\mathcal{L}_{\textit{style}}$.
+Loss function is the weighted sum of Content Loss $\mathcal{L}_{\text{content}}$ and Style Loss $\mathcal{L}_{\textit{style}}$.
 - $\vec{x}$ : target image
 - $\vec{p}$ : content image
 - $\vec{a}$ : style image
